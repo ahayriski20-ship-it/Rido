@@ -1,0 +1,22 @@
+{
+    "keys": {
+        "RIDO-7DAYS-ABC123": {
+            "duration_days": 7,
+            "activated_at": null,
+            "device_id": null,
+            "note": "Key untuk 7 hari"
+        },
+        "RIDO-30DAYS-XYZ789": {
+            "duration_days": 30,
+            "activated_at": null,
+            "device_id": null,
+            "note": "Key untuk 30 hari"
+        },
+        "RIDO-PERMANENT-DEF456": {
+            "duration_days": 99999,
+            "activated_at": null,
+            "device_id": null,
+            "note": "Key permanen"
+        }
+    }
+}
